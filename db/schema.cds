@@ -1,3 +1,6 @@
 namespace CBE;
 
 
+entity supplier{
+    
+}
