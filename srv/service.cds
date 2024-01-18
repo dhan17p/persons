@@ -1,6 +1,6 @@
 using {CBE} from '../db/schema';
 
-service cbeservice {
+service Catalogcbeservice {
     entity supplier as projection on CBE.Supplier;
     entity Item     as projection on CBE.Item;
 }
